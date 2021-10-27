@@ -39,8 +39,8 @@
 ![screenshot](destktop-screenshot.png)
 
 I built a rresponsive 404 page with HTML CSS. see the mobile view below👇
-![screenshot](mobile-screenshot.png)
 
+<img align="center" src="mobile-screenshot.png"/>
 
  It was fairly easy, and I enjoyed trying to make it responsive
 
